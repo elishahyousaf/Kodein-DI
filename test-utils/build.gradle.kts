@@ -20,7 +20,7 @@ kodein {
             }
         }
 
-        add(kodeinTargets.js.js) {
+        add(kodeinTargets.js.both) {
             main.dependencies {
                 api("org.jetbrains.kotlin:kotlin-test-js")
                 api("org.jetbrains.kotlin:kotlin-stdlib-js")
