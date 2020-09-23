@@ -11,7 +11,7 @@ kodein {
 
         common {
             main.dependencies {
-                api("org.kodein.type:kodein-type:1.4.0-snapshot-js-ir-crash-94")
+                api("org.kodein.type:kodein-type:1.4.0")
             }
             test.dependencies {
                 implementation(project(":test-utils"))

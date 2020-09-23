@@ -7,7 +7,7 @@ buildscript {
         maven(url = "https://dl.bintray.com/kodein-framework/Kodein-Internal-Gradle")
     }
     dependencies {
-        classpath("org.kodein.internal.gradle:kodein-internal-gradle-settings:4.1.0-snapshot-js-ir-crash-80")
+        classpath("org.kodein.internal.gradle:kodein-internal-gradle-settings:4.1.0")
     }
 }
 
